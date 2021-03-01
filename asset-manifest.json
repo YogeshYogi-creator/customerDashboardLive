@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/customerDashboardLive/static/js/main.300a446d.chunk.js",
+    "main.js.map": "/customerDashboardLive/static/js/main.300a446d.chunk.js.map",
+    "runtime-main.js": "/customerDashboardLive/static/js/runtime-main.2e6c7ba5.js",
+    "runtime-main.js.map": "/customerDashboardLive/static/js/runtime-main.2e6c7ba5.js.map",
+    "static/js/2.712d11aa.chunk.js": "/customerDashboardLive/static/js/2.712d11aa.chunk.js",
+    "static/js/2.712d11aa.chunk.js.map": "/customerDashboardLive/static/js/2.712d11aa.chunk.js.map",
+    "index.html": "/customerDashboardLive/index.html",
+    "static/js/2.712d11aa.chunk.js.LICENSE.txt": "/customerDashboardLive/static/js/2.712d11aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e6c7ba5.js",
+    "static/js/2.712d11aa.chunk.js",
+    "static/js/main.300a446d.chunk.js"
+  ]
+}
